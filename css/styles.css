@@ -91,6 +91,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
 
+
 a:hover,
 a:active,
 a:focus {
@@ -185,6 +186,7 @@ h6 {
   -o-transition: all 0.5s;
   transition: all 0.5s; }
 
+  
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -428,9 +430,14 @@ Contact Section
   #intro p {
     font-size: 24px; } }
 
+  
+
 @media only screen and (min-width: 992px) {
   #intro {
     background-attachment: fixed; } }
+
+  
+    
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* 
